@@ -64,8 +64,8 @@ Class ini berada di level paling bawah (ujung *inheritance*) yang mendefinisikan
 <img width="1266" height="775" alt="cpp1" src="https://github.com/user-attachments/assets/f9c3d155-92e9-4320-946e-5be549bd900c" /><br>
 <img width="1411" height="385" alt="cpp2" src="https://github.com/user-attachments/assets/265a3bc7-5eea-46d6-b069-73b1402f7901" /><br>
 ## PYTHON
-<img width="1408" height="375" alt="python (2)" src="https://github.com/user-attachments/assets/16aac63a-078f-4ada-ac0f-642a7d43a091" /><br>
-<img width="1266" height="773" alt="python (1)" src="https://github.com/user-attachments/assets/78a66818-f482-47cf-8039-f09bc642483e" />
+<img width="1266" height="773" alt="python (1)" src="https://github.com/user-attachments/assets/78a66818-f482-47cf-8039-f09bc642483e" /><br>
+<img width="1408" height="375" alt="python (2)" src="https://github.com/user-attachments/assets/16aac63a-078f-4ada-ac0f-642a7d43a091" />
 
 ## JAVA
 <img width="1271" height="768" alt="java (1)" src="https://github.com/user-attachments/assets/c98102be-9975-40c8-a5dc-cb29690cd523" /><br>
