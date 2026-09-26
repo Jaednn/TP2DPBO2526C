@@ -1,0 +1,68 @@
+2
+PRS SE Silver Sky John Mayer
+PRS
+2024
+6
+Nickel
+Solid Body
+Electric
+22
+SSS
+
+2
+Gibson Les Paul Junior
+Gibson
+2024
+6
+Nickel
+Solid Body
+Electric
+22
+P90
+
+2
+Fender Kurt Cobain Mustang
+Fender
+2024
+6
+Nickel
+Offset Solid Body
+Electric
+24
+Humbucker + Single Coil
+
+2
+Fender American Acoustasonic Telecaster
+Fender
+2024
+6
+Phosphor Bronze
+Telecaster
+Acoustic-Electric
+22
+Acoustic + Noiseless
+
+2
+Ibanez TOD10 Tim Henson Signature
+Ibanez
+2024
+6
+Nickel
+Solid Body
+Electric
+24
+Fishman Fluence
+1
+3
+
+2
+Gibson Songwriter 12-String
+Gibson
+2024
+12
+Steel
+Square Shoulder Dreadnought
+Acoustic
+20
+None
+
