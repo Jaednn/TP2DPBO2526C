@@ -47,7 +47,7 @@ Class ini berada di level paling bawah (ujung *inheritance*) yang mendefinisikan
 
 - Gitar: Merupakan turunan dari instrumen senar. Class ini mendefinisikan spesifikasi teknis yang sangat mengerucut pada anatomi gitar, seperti tipe gitar (elektrik/akustik), hitungan jumlah fret, dan jenis pickup yang terpasang.
 
-##Penjelasan Alur Program
+## Penjelasan Alur Program
 
 - Inisialisasi Data Awal: Saat program dijalankan, sistem akan langsung membuat dan menyimpan 5 (lima) data / objek default ke dalam memori (Array / Vector / List / Session) sebelum interaksi dari user.
 
@@ -64,5 +64,13 @@ Class ini berada di level paling bawah (ujung *inheritance*) yang mendefinisikan
 <img width="1266" height="775" alt="cpp1" src="https://github.com/user-attachments/assets/f9c3d155-92e9-4320-946e-5be549bd900c" /><br>
 <img width="1411" height="385" alt="cpp2" src="https://github.com/user-attachments/assets/265a3bc7-5eea-46d6-b069-73b1402f7901" /><br>
 ## PYTHON
+<img width="1408" height="375" alt="python (2)" src="https://github.com/user-attachments/assets/16aac63a-078f-4ada-ac0f-642a7d43a091" /><br>
+<img width="1266" height="773" alt="python (1)" src="https://github.com/user-attachments/assets/78a66818-f482-47cf-8039-f09bc642483e" />
+
 ## JAVA
+<img width="1271" height="768" alt="java (1)" src="https://github.com/user-attachments/assets/c98102be-9975-40c8-a5dc-cb29690cd523" /><br>
+<img width="1272" height="371" alt="java (2)" src="https://github.com/user-attachments/assets/7a0c62ca-d13c-4bc7-b157-23f93bdae004" />
+
 ## PHP
+<img width="1690" height="538" alt="php (2)" src="https://github.com/user-attachments/assets/c032c59b-15bd-4d27-a7aa-7cec075a832b" /><br>
+<img width="1681" height="407" alt="php (1)" src="https://github.com/user-attachments/assets/de031d8b-3d30-41f0-8087-8b8b9bae347c" />
