@@ -72,5 +72,6 @@ Class ini berada di level paling bawah (ujung *inheritance*) yang mendefinisikan
 <img width="1272" height="371" alt="java (2)" src="https://github.com/user-attachments/assets/7a0c62ca-d13c-4bc7-b157-23f93bdae004" />
 
 ## PHP
-<img width="1690" height="538" alt="php (2)" src="https://github.com/user-attachments/assets/c032c59b-15bd-4d27-a7aa-7cec075a832b" /><br>
-<img width="1681" height="407" alt="php (1)" src="https://github.com/user-attachments/assets/de031d8b-3d30-41f0-8087-8b8b9bae347c" />
+<img width="1681" height="407" alt="php (1)" src="https://github.com/user-attachments/assets/de031d8b-3d30-41f0-8087-8b8b9bae347c" /><br>
+<img width="1690" height="538" alt="php (2)" src="https://github.com/user-attachments/assets/c032c59b-15bd-4d27-a7aa-7cec075a832b" />
+
