@@ -40,7 +40,7 @@ Class ini berada di level paling bawah (ujung *inheritance*) yang mendefinisikan
 
 
 ## Alasan pemilihan class:
-<img width="162" height="460" alt="diagram" src="https://github.com/user-attachments/assets/4be644fd-767d-4e82-86ed-427d0a5297e3" />
+<img width="162" height="460" alt="diagram" src="https://github.com/user-attachments/assets/4be644fd-767d-4e82-86ed-427d0a5297e3" /><br>
 - Instrumen: Merupakan class paling dasar untuk semua entitas alat musik. Atributnya mencakup identitas pokok (nama, merek, tahun) yang pasti dimiliki oleh semua instrumen, baik itu alat musik tiup, pukul, maupun petik.
 
 - InstrumenSenar: Kategori turunan yang lebih khusus dari instrumen. Alat musik ini pasti dikonstruksi menggunakan senar/dawai pembentuk nada, sehingga membutuhkan data jumlah senar, bahan senar, dan jenis badan resonator. Konsep ini nantinya bisa juga diturunkan ke class lain seperti Biola, Harpa, atau Cello.
