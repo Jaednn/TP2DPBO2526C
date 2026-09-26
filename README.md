@@ -38,7 +38,7 @@ Class ini berada di level paling bawah (ujung *inheritance*) yang mendefinisikan
     *   *Constructor* (memanggil *super* dengan semua atribut dari atas), *Getters*, dan *Setters*.
     *   `ubahPickup()`: Mensimulasikan aksi modifikasi penggantian komponen *pickup* pada gitar.
 <img width="162" height="460" alt="diagram" src="https://github.com/user-attachments/assets/4be644fd-767d-4e82-86ed-427d0a5297e3" />
-<br>
+
 ## Alasan pemilihan class:
 - Instrumen: Merupakan class paling dasar untuk semua entitas alat musik. Atributnya mencakup identitas pokok (nama, merek, tahun) yang pasti dimiliki oleh semua instrumen, baik itu alat musik tiup, pukul, maupun petik.
 
